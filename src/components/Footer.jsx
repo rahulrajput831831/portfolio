@@ -14,7 +14,7 @@ export default function Footer() {
           <a href="https://github.com/rahulrajput831831" target="_blank" rel="noopener noreferrer" className="text-zinc-600 hover:text-white transition-colors duration-300 hover:-translate-y-1 transform">
             <Github className="w-5 h-5" />
           </a>
-          <a href="https://linkedin.com/in/rahulpathania31" target="_blank" rel="noopener noreferrer" className="text-zinc-600 hover:text-white transition-colors duration-300 hover:-translate-y-1 transform">
+          <a href="https://www.linkedin.com/in/rahulrajput831/" target="_blank" rel="noopener noreferrer" className="text-zinc-600 hover:text-white transition-colors duration-300 hover:-translate-y-1 transform">
             <Linkedin className="w-5 h-5" />
           </a>
           <a href="mailto:rahulrajput831831831@gmail.com" className="text-zinc-600 hover:text-white transition-colors duration-300 hover:-translate-y-1 transform">
